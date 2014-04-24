@@ -38,7 +38,7 @@
             <children xmi:type="notation:Node" xmi:id="_U29m4L-cEeOkioi7MT3XUg" type="skdescription">
               <element xsi:nil="true"/>
             </children>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_U26jkb-cEeOkioi7MT3XUg" description="infra-client" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_U26jkb-cEeOkioi7MT3XUg" description="sudoor-client" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_U26jkr-cEeOkioi7MT3XUg"/>
             <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_U26jk7-cEeOkioi7MT3XUg"/>
             <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_U26jlL-cEeOkioi7MT3XUg"/>
@@ -79,7 +79,7 @@
             <children xmi:type="notation:Node" xmi:id="_e8S4IL-cEeOkioi7MT3XUg" type="skdescription">
               <element xsi:nil="true"/>
             </children>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_e8RqAb-cEeOkioi7MT3XUg" description="infra-client" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_e8RqAb-cEeOkioi7MT3XUg" description="sudoor-client" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_e8RqAr-cEeOkioi7MT3XUg"/>
             <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_e8RqA7-cEeOkioi7MT3XUg"/>
             <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_e8RqBL-cEeOkioi7MT3XUg"/>
@@ -120,7 +120,7 @@
             <children xmi:type="notation:Node" xmi:id="_-gZXEr-nEeOpcL33y3wuHA" type="skdescription">
               <element xsi:nil="true"/>
             </children>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_-gXh4b-nEeOpcL33y3wuHA" description="infra-client" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_-gXh4b-nEeOpcL33y3wuHA" description="sudoor-client" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_-gXh4r-nEeOpcL33y3wuHA"/>
             <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_-gXh47-nEeOpcL33y3wuHA"/>
             <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_-gXh5L-nEeOpcL33y3wuHA"/>
@@ -310,7 +310,7 @@
             <children xmi:type="notation:Node" xmi:id="_-U_10r-bEeOkioi7MT3XUg" type="skdescription">
               <element xsi:nil="true"/>
             </children>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_-U5vMb-bEeOkioi7MT3XUg" description="infra-client" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_-U5vMb-bEeOkioi7MT3XUg" description="sudoor-client" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_-U5vMr-bEeOkioi7MT3XUg"/>
             <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_-U5vM7-bEeOkioi7MT3XUg"/>
             <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_-U5vNL-bEeOkioi7MT3XUg"/>
@@ -639,7 +639,7 @@
             <children xmi:type="notation:Node" xmi:id="_Jcb1kr-iEeOpcL33y3wuHA" type="skdescription">
               <element xsi:nil="true"/>
             </children>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_JcYyQb-iEeOpcL33y3wuHA" description="infra-server" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JcYyQb-iEeOpcL33y3wuHA" description="sudoor-server" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_JcYyQr-iEeOpcL33y3wuHA"/>
             <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_JcYyQ7-iEeOpcL33y3wuHA"/>
             <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_JcYyRL-iEeOpcL33y3wuHA"/>
