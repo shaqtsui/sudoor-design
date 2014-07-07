@@ -337,7 +337,7 @@
         <children xmi:type="notation:Node" xmi:id="_g8OHpc82EeO4E_I8cb6j5w" type="skdescription">
           <element xsi:nil="true"/>
         </children>
-        <styles xmi:type="notation:ShapeStyle" xmi:id="_g8NgkM82EeO4E_I8cb6j5w" description="build/manage artifect" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_g8NgkM82EeO4E_I8cb6j5w" description="build/manage SDLC" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_g8Ngkc82EeO4E_I8cb6j5w"/>
         <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_g8Ngks82EeO4E_I8cb6j5w"/>
         <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_g8Ngk882EeO4E_I8cb6j5w"/>
