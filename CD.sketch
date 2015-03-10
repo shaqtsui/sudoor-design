@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<SketchNotation:SketchDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SketchNotation="http://www.ibm.com/ccl/soa/sketch/notation/1.0.0/" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_eZ5IwMcTEeSY19ahsSXK5Q" type="Sketch" name="sketch" measurementUnit="Himetric">
+  <children xmi:type="notation:Node" xmi:id="_r6ULYMcUEeSY19ahsSXK5Q" type="skstick">
+    <children xmi:type="notation:Node" xmi:id="_r6XOsMcUEeSY19ahsSXK5Q" type="skshapes">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_r6XOsccUEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_r6XOsscUEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_r6XOs8cUEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_r6XOtMcUEeSY19ahsSXK5Q"/>
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_r6X1wMcUEeSY19ahsSXK5Q" type="skdescription">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_r6ULYccUEeSY19ahsSXK5Q" description="user" transparency="0" lineWidth="2" roundedBendpointsRadius="12"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_r6ULYscUEeSY19ahsSXK5Q"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_r6ULY8cUEeSY19ahsSXK5Q"/>
+    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_r6ULZMcUEeSY19ahsSXK5Q"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_r6ULZccUEeSY19ahsSXK5Q" textAlignment="Center"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r6ULZscUEeSY19ahsSXK5Q" x="2569" y="1109"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_ATJv8McZEeSY19ahsSXK5Q" type="skrectangle">
+    <children xmi:type="notation:Node" xmi:id="_ATK-EMcZEeSY19ahsSXK5Q" type="skshapes">
+      <children xmi:type="notation:Node" xmi:id="_35UJcMcTEeSY19ahsSXK5Q" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_35V-oMcTEeSY19ahsSXK5Q" type="skshapes">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_35V-occTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_35V-oscTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_35V-o8cTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_35V-pMcTEeSY19ahsSXK5Q"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_35V-pccTEeSY19ahsSXK5Q" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_35UwgMcTEeSY19ahsSXK5Q" description="go" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_35UwgccTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_35UwgscTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_35Uwg8cTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_35UwhMcTEeSY19ahsSXK5Q" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_35UwhccTEeSY19ahsSXK5Q" x="3166" y="1044"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_oVpx0McUEeSY19ahsSXK5Q" type="skcylinder">
+        <children xmi:type="notation:Node" xmi:id="_oVuDQMcUEeSY19ahsSXK5Q" type="skshapes">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_oVuDQccUEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_oVuDQscUEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_oVuqUMcUEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_oVuqUccUEeSY19ahsSXK5Q"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_oVuqUscUEeSY19ahsSXK5Q" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_oVpx0ccUEeSY19ahsSXK5Q" description="LDAP" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_oVpx0scUEeSY19ahsSXK5Q"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_oVpx08cUEeSY19ahsSXK5Q"/>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_oVpx1McUEeSY19ahsSXK5Q"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_oVpx1ccUEeSY19ahsSXK5Q" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oVpx1scUEeSY19ahsSXK5Q" x="1850" y="3583"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_u0fS8McTEeSY19ahsSXK5Q" type="skcylinder">
+        <children xmi:type="notation:Node" xmi:id="_u0kygMcTEeSY19ahsSXK5Q" type="skshapes">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_u0kygccTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_u0kygscTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_u0lZkMcTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_u0lZkccTEeSY19ahsSXK5Q"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_u0mAoMcTEeSY19ahsSXK5Q" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_u0fS8ccTEeSY19ahsSXK5Q" description="SCM" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_u0fS8scTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_u0fS88cTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_u0fS9McTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_u0fS9ccTEeSY19ahsSXK5Q" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u0fS9scTEeSY19ahsSXK5Q" x="5625" y="3583"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_9l88IMcTEeSY19ahsSXK5Q" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_9mB0oMcTEeSY19ahsSXK5Q" type="skshapes">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_9mB0occTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_9mB0oscTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_9mB0o8cTEeSY19ahsSXK5Q"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_9mB0pMcTEeSY19ahsSXK5Q"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_9mCbsMcTEeSY19ahsSXK5Q" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_9l88IccTEeSY19ahsSXK5Q" description="maven wildfly plugin" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_9l88IscTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_9l88I8cTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_9l9jMMcTEeSY19ahsSXK5Q"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_9l9jMccTEeSY19ahsSXK5Q" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9l9jMscTEeSY19ahsSXK5Q" x="7264" y="1315"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_ATK-EccZEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ATK-EscZEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_ATLlIMcZEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ATLlIccZEeSY19ahsSXK5Q"/>
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_ATLlIscZEeSY19ahsSXK5Q" type="skdescription">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_ATJv8ccZEeSY19ahsSXK5Q" description="CD" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_ATJv8scZEeSY19ahsSXK5Q"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_ATJv88cZEeSY19ahsSXK5Q"/>
+    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_ATKXAMcZEeSY19ahsSXK5Q"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_ATKXAccZEeSY19ahsSXK5Q" textAlignment="Center"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ATKXAscZEeSY19ahsSXK5Q" x="5817" y="1356" width="13656" height="8225"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_HR7OAMcbEeSY19ahsSXK5Q" type="skrectangle">
+    <children xmi:type="notation:Node" xmi:id="_HR_fcMcbEeSY19ahsSXK5Q" type="skshapes">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_HR_fcccbEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_HR_fcscbEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_HR_fc8cbEeSY19ahsSXK5Q"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_HR_fdMcbEeSY19ahsSXK5Q"/>
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_HR_fdccbEeSY19ahsSXK5Q" type="skdescription">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_HR7OAccbEeSY19ahsSXK5Q" description="wildfly-admin" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_HR7OAscbEeSY19ahsSXK5Q"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_HR71EMcbEeSY19ahsSXK5Q"/>
+    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_HR71EccbEeSY19ahsSXK5Q"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_HR71EscbEeSY19ahsSXK5Q" textAlignment="Center"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HR71E8cbEeSY19ahsSXK5Q" x="20531" y="4753"/>
+  </children>
+  <edges xmi:type="notation:Connector" xmi:id="_7PgCIMcTEeSY19ahsSXK5Q" type="skline" source="_35UJcMcTEeSY19ahsSXK5Q" target="_u0fS8McTEeSY19ahsSXK5Q" roundedBendpointsRadius="12" smoothness="Normal" avoidObstructions="true" lineWidth="2">
+    <styles xmi:type="notation:ArrowStyle" xmi:id="_7PgCIccTEeSY19ahsSXK5Q" arrowTarget="OpenArrow"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_7PgCIscTEeSY19ahsSXK5Q"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_7PgCI8cTEeSY19ahsSXK5Q"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7PgCJMcTEeSY19ahsSXK5Q" points="[-16, 2, 117, 1]$[-132, 30, 1, 29]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7Ps2cMcTEeSY19ahsSXK5Q" id="(0.12724358974358974,0.5370629370629371)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7Ps2cccTEeSY19ahsSXK5Q" id="(0.8802938634399309,0.5586303939962477)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_f4KoIMcUEeSY19ahsSXK5Q" type="skline" source="_35UJcMcTEeSY19ahsSXK5Q" target="_9l88IMcTEeSY19ahsSXK5Q" roundedBendpointsRadius="12" smoothness="Normal" avoidObstructions="true" lineWidth="2">
+    <styles xmi:type="notation:ArrowStyle" xmi:id="_f4LPMMcUEeSY19ahsSXK5Q" arrowTarget="OpenArrow"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_f4LPMccUEeSY19ahsSXK5Q"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_f4LPMscUEeSY19ahsSXK5Q"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_f4LPM8cUEeSY19ahsSXK5Q" points="[-3, 3, -72, 1]$[70, 25, 1, 23]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f4RV0McUEeSY19ahsSXK5Q" id="(1.0,0.4818181818181818)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f4R84McUEeSY19ahsSXK5Q" id="(0.08164612676056338,0.5370629370629371)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_quji4McUEeSY19ahsSXK5Q" type="skline" source="_35UJcMcTEeSY19ahsSXK5Q" target="_oVpx0McUEeSY19ahsSXK5Q" roundedBendpointsRadius="12" smoothness="Normal" avoidObstructions="true" lineWidth="2">
+    <styles xmi:type="notation:ArrowStyle" xmi:id="_quji4ccUEeSY19ahsSXK5Q" arrowTarget="OpenArrow"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_quji4scUEeSY19ahsSXK5Q"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_quji48cUEeSY19ahsSXK5Q"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_quji5McUEeSY19ahsSXK5Q" points="[2, -2, 92, -111]$[-89, 85, 1, -24]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_quss0McUEeSY19ahsSXK5Q" id="(0.3612179487179487,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_quss0ccUEeSY19ahsSXK5Q" id="(0.9261019878997407,0.4094746716697936)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_tCzdcMcUEeSY19ahsSXK5Q" type="skline" source="_r6ULYMcUEeSY19ahsSXK5Q" target="_35UJcMcTEeSY19ahsSXK5Q" roundedBendpointsRadius="12" smoothness="Normal" avoidObstructions="true" lineWidth="2">
+    <styles xmi:type="notation:ArrowStyle" xmi:id="_tCzdcccUEeSY19ahsSXK5Q" arrowTarget="OpenArrow"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_tCzdcscUEeSY19ahsSXK5Q"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_tCzdc8cUEeSY19ahsSXK5Q"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tCzddMcUEeSY19ahsSXK5Q" points="[-23, -25, -126, -131]$[104, 98, 1, -8]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tC5kEMcUEeSY19ahsSXK5Q" id="(1.0,0.5513487931850449)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tC5kEccUEeSY19ahsSXK5Q" id="(0.3019230769230769,0.14335664335664336)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_I3KGcMcbEeSY19ahsSXK5Q" type="skline" source="_9l88IMcTEeSY19ahsSXK5Q" target="_HR7OAMcbEeSY19ahsSXK5Q" roundedBendpointsRadius="12" smoothness="Normal" avoidObstructions="true" lineWidth="2">
+    <styles xmi:type="notation:ArrowStyle" xmi:id="_I3KGcccbEeSY19ahsSXK5Q" arrowTarget="OpenArrow"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_I3KGcscbEeSY19ahsSXK5Q"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_I3KGc8cbEeSY19ahsSXK5Q"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_I3KGdMcbEeSY19ahsSXK5Q" points="[-3, -1, -123, -46]$[121, 21, 1, -24]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_I3VFkMcbEeSY19ahsSXK5Q" id="(1.0,0.5888111888111888)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_I3VFkccbEeSY19ahsSXK5Q" id="(0.04561101549053356,0.46223776223776225)"/>
+  </edges>
+</SketchNotation:SketchDiagram>
