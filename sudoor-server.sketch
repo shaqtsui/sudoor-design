@@ -265,7 +265,7 @@
     <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_XSJH5MegEeSAfZRYaCaD8w"/>
     <styles xmi:type="notation:TextStyle" xmi:id="_XSJH5cegEeSAfZRYaCaD8w" textAlignment="Center"/>
     <element xsi:nil="true"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSJH5segEeSAfZRYaCaD8w" x="5684" y="101" width="17224" height="13435"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XSJH5segEeSAfZRYaCaD8w" x="5423" y="101" width="17224" height="13435"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_BMmXoMehEeSAfZRYaCaD8w" type="skrectangle">
     <children xmi:type="notation:Node" xmi:id="_BMqCAMehEeSAfZRYaCaD8w" type="skshapes">
@@ -284,7 +284,7 @@
     <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_BMmXpMehEeSAfZRYaCaD8w"/>
     <styles xmi:type="notation:TextStyle" xmi:id="_BMmXpcehEeSAfZRYaCaD8w" textAlignment="Center"/>
     <element xsi:nil="true"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BMmXpsehEeSAfZRYaCaD8w" x="23966" y="7764"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BMmXpsehEeSAfZRYaCaD8w" x="22920" y="7764"/>
   </children>
   <children xmi:type="notation:Node" xmi:id="_Oo16UMehEeSAfZRYaCaD8w" type="skcylinder">
     <children xmi:type="notation:Node" xmi:id="_Oo5ksMehEeSAfZRYaCaD8w" type="skshapes">
@@ -303,7 +303,7 @@
     <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_Oo16VMehEeSAfZRYaCaD8w"/>
     <styles xmi:type="notation:TextStyle" xmi:id="_Oo16VcehEeSAfZRYaCaD8w" textAlignment="Center"/>
     <element xsi:nil="true"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Oo16VsehEeSAfZRYaCaD8w" x="24369" y="769"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Oo16VsehEeSAfZRYaCaD8w" x="23323" y="769"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_yuYTMMejEeSAfZRYaCaD8w" type="Note" fontName="微软雅黑" fontHeight="8" description="&lt;p>All relationships are base on functionality, not flow&lt;/p>" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
     <children xmi:type="notation:BasicDecorationNode" xmi:id="_yuYTMcejEeSAfZRYaCaD8w" type="DiagramName">
@@ -334,45 +334,26 @@
     <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_xZq4JMelEeSAfZRYaCaD8w"/>
     <styles xmi:type="notation:TextStyle" xmi:id="_xZq4JcelEeSAfZRYaCaD8w" textAlignment="Center"/>
     <element xsi:nil="true"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xZq4JselEeSAfZRYaCaD8w" x="1034" y="14619"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xZq4JselEeSAfZRYaCaD8w" x="1558" y="14057"/>
   </children>
-  <children xmi:type="notation:Node" xmi:id="_wsG5IM3oEeSatMj2__bK1g" type="skrectangle">
-    <children xmi:type="notation:Node" xmi:id="_wsG5J83oEeSatMj2__bK1g" type="skshapes">
-      <children xmi:type="notation:Node" xmi:id="_zFo8Uc3oEeSatMj2__bK1g" type="skrectangle">
-        <children xmi:type="notation:Node" xmi:id="_zFo8Us3oEeSatMj2__bK1g" type="skshapes">
-          <styles xmi:type="notation:DrawerStyle" xmi:id="_zFo8U83oEeSatMj2__bK1g"/>
-          <styles xmi:type="notation:TitleStyle" xmi:id="_zFo8VM3oEeSatMj2__bK1g"/>
-          <styles xmi:type="notation:DrawerStyle" xmi:id="_zFo8Vc3oEeSatMj2__bK1g"/>
-          <styles xmi:type="notation:TitleStyle" xmi:id="_zFo8Vs3oEeSatMj2__bK1g"/>
-          <element xsi:nil="true"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_zFo8V83oEeSatMj2__bK1g" type="skdescription">
-          <element xsi:nil="true"/>
-        </children>
-        <styles xmi:type="notation:ShapeStyle" xmi:id="_zFo8WM3oEeSatMj2__bK1g" description="JMX" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
-        <styles xmi:type="notation:LineTypeStyle" xmi:id="_zFo8Wc3oEeSatMj2__bK1g"/>
-        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_zFo8Ws3oEeSatMj2__bK1g"/>
-        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_zFo8W83oEeSatMj2__bK1g"/>
-        <styles xmi:type="notation:TextStyle" xmi:id="_zFo8XM3oEeSatMj2__bK1g" textAlignment="Center"/>
-        <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zFo8Xc3oEeSatMj2__bK1g" x="792" y="430"/>
-      </children>
-      <styles xmi:type="notation:DrawerStyle" xmi:id="_wsG5KM3oEeSatMj2__bK1g"/>
-      <styles xmi:type="notation:TitleStyle" xmi:id="_wsG5Kc3oEeSatMj2__bK1g"/>
-      <styles xmi:type="notation:DrawerStyle" xmi:id="_wsG5Ks3oEeSatMj2__bK1g"/>
-      <styles xmi:type="notation:TitleStyle" xmi:id="_wsG5K83oEeSatMj2__bK1g"/>
+  <children xmi:type="notation:Node" xmi:id="_zFo8Uc3oEeSatMj2__bK1g" type="skrectangle">
+    <children xmi:type="notation:Node" xmi:id="_zFo8Us3oEeSatMj2__bK1g" type="skshapes">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zFo8U83oEeSatMj2__bK1g"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_zFo8VM3oEeSatMj2__bK1g"/>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zFo8Vc3oEeSatMj2__bK1g"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_zFo8Vs3oEeSatMj2__bK1g"/>
       <element xsi:nil="true"/>
     </children>
-    <children xmi:type="notation:Node" xmi:id="_wsG5LM3oEeSatMj2__bK1g" type="skdescription">
+    <children xmi:type="notation:Node" xmi:id="_zFo8V83oEeSatMj2__bK1g" type="skdescription">
       <element xsi:nil="true"/>
     </children>
-    <styles xmi:type="notation:ShapeStyle" xmi:id="_wsG5Ic3oEeSatMj2__bK1g" description="JVM" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
-    <styles xmi:type="notation:LineTypeStyle" xmi:id="_wsG5Is3oEeSatMj2__bK1g"/>
-    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_wsG5I83oEeSatMj2__bK1g"/>
-    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_wsG5JM3oEeSatMj2__bK1g"/>
-    <styles xmi:type="notation:TextStyle" xmi:id="_wsG5Jc3oEeSatMj2__bK1g" textAlignment="Center"/>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zFo8WM3oEeSatMj2__bK1g" description="JMX" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_zFo8Wc3oEeSatMj2__bK1g"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_zFo8Ws3oEeSatMj2__bK1g"/>
+    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_zFo8W83oEeSatMj2__bK1g"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_zFo8XM3oEeSatMj2__bK1g" textAlignment="Center"/>
     <element xsi:nil="true"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wsG5Js3oEeSatMj2__bK1g" x="11812" y="14057" width="4968" height="2554"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zFo8Xc3oEeSatMj2__bK1g" x="14564" y="16677"/>
   </children>
   <edges xmi:type="notation:Connector" xmi:id="__jS3gMegEeSAfZRYaCaD8w" type="skline" source="_bhYIcMegEeSAfZRYaCaD8w" target="_2ov-YMegEeSAfZRYaCaD8w" roundedBendpointsRadius="12" smoothness="Normal" avoidObstructions="true" lineWidth="2">
     <styles xmi:type="notation:ArrowStyle" xmi:id="__jS3gcegEeSAfZRYaCaD8w" arrowTarget="OpenArrow"/>
